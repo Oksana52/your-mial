@@ -55,10 +55,11 @@ p,
 figure {
   margin: 0;
 }
+
 fieldset {
   margin: 0;
   padding: 0;
-  bottom: 0;
+  border: 0;
 }
 
 .visualle-hidden {
